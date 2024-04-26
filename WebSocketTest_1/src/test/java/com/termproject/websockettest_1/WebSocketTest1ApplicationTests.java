@@ -1,10 +1,10 @@
-package com.termproject.serertest;
+package com.termproject.websockettest_1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SererTestApplicationTests {
+class WebSocketTest1ApplicationTests {
 
     @Test
     void contextLoads() {
