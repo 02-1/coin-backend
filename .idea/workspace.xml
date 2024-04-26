@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f68fc5d2-3451-4aca-9c1a-4545e20b2a70" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/coin-backend.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/src/main/java/com/termproject/serertest/SererTestApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SererTest/src/test/java/com/termproject/serertest/SererTestApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f68fc5d2-3451-4aca-9c1a-4545e20b2a70" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714134247496</updated>
       <workItem from="1714134248805" duration="469000" />
-      <workItem from="1714136351458" duration="292000" />
+      <workItem from="1714136351458" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -126,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714134378392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1714136774267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714136774267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
