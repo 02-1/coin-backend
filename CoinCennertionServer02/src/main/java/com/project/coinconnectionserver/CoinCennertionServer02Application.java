@@ -1,13 +1,13 @@
-package com.termproject.websockettest_1;
+package com.project.coinconnectionserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebSocketTest1Application {
+public class CoinCennertionServer02Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebSocketTest1Application.class, args);
+        SpringApplication.run(CoinCennertionServer02Application.class, args);
     }
 
 }
