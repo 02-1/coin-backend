@@ -31,9 +31,9 @@ public class SimpleCoin {
         }
     }
 
-    public SimpleCoin(int id, String img_link, String ticker, String name) {
+    public SimpleCoin(int id, String img_link, String ticker, String name, double rate) {
         UpbitCryptoHandler upbit = new UpbitCryptoHandler();
-        BinanceCryptoHandler binance = new BinanceCryptoHandler();
+        BinanceCryptoHandler binance = new BinanceCryptoHandler(rate);
 
         double priceUp = upbit.getTradePrice(ticker), priceBi = binance.getTradePrice(ticker);
         double gap = priceUp - priceBi;

@@ -64,7 +64,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/.Programming/JavaSpring Programming/CoinConnectionServer",
+    "last_opened_file_path": "C:/.Programming/Project/coin-backend_01/CoinCennertionServer02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +101,8 @@
       <workItem from="1714134248805" duration="469000" />
       <workItem from="1714136351458" duration="1140000" />
       <workItem from="1714203562059" duration="45000" />
+      <workItem from="1714367128417" duration="234000" />
+      <workItem from="1714367386407" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("/coin-info")
+@RequestMapping("/coin-list")
 public class CoinController {
 
     private final CoinService coinService;
@@ -24,3 +24,4 @@ public class CoinController {
         return coinService.findAllCoinsSimpleData();
     }
 }
+

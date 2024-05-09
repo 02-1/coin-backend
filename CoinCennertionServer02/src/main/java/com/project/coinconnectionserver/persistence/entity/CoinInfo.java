@@ -27,3 +27,4 @@ public class CoinInfo
     @Lob
     private String coinDetail3;
 }
+

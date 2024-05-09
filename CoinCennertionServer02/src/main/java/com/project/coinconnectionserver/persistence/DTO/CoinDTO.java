@@ -28,3 +28,4 @@ public class CoinDTO
         this.coinDetail3 = coinDetail3;
     }
 }
+

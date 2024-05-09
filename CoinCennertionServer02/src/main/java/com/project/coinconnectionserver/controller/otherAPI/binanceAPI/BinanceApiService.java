@@ -24,6 +24,7 @@ public class BinanceApiService {
             PriceData priceData = objectMapper.readValue(response.body(), PriceData.class);
 
             result = priceData.getPrice();
+//            System.out.println(result);
         }
 
         return result;
